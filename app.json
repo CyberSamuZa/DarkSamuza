@@ -34,7 +34,7 @@
 
     "description": "alive මැසෙජ් එක මෙතනට දාන්න",
 
-     "value": "i am alive now 🙋‍♂️"
+     "value": "Hey User I Am Alive Now"
 
     },
   
@@ -94,7 +94,7 @@
 
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
 
-       "value": "94703768140"
+       "value": "94765718443"
 
   },
 
@@ -134,7 +134,7 @@
 
     "description": "මෙය වෙනස් නොකරන්න (Don't Change This) ",
 
-     "value": "PRABATH-MD"
+     "value": "Dark-SamuZa"
 
   },
 
@@ -150,7 +150,7 @@
 
     "description": "Put packname;authorname.",
 
-     "value": "PRABATH-MD🎊;𝚙𝚛𝚊𝚋𝚊𝚝𝚑✅",
+     "value": "SamuZa;Dark",
 
      "required": false 
 
