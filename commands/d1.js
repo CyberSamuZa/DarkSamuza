@@ -368,7 +368,7 @@ const tvideo = await fetchJson(`https://darkalphaxteam-api.cyclic.app/api/downlo
 
 const videolink = tvideo.download
 
-            citel.reply (`┌──═━┈━═──┐ *𝗩𝗜𝗗𝗘𝗢_𝗜𝗡𝗙𝗢*\n\n 📽️\n\n\n\nℹ️ *Title:* ${anu.title}\n\n🕑 *Duration:* ${anu.timestamp}\n\n👀 *Viewers:* ${anu.views}\n\n🖇️ *Url:* ${anu.url}\n\n⬆️ *Uploaded:* ${anu.ago}\n\n🎗️ *Author:* ${anu.author.name}`);
+            citel.reply (`┏━━━━━✦❘༻༺❘✦━━━━━━┓\n*𝗩𝗜𝗗𝗘𝗢_𝗜𝗡𝗙𝗢*\n\n\n\n\n\nℹ️ *Title:* ${anu.title}\n\n🕑 *Duration:* ${anu.timestamp}\n\n👀 *Viewers:* ${anu.views}\n\n🖇️ *Url:* ${anu.url}\n\n⬆️ *Uploaded:* ${anu.ago}\n\n🎗️ *Author:* ${anu.author.name}`);
             return Void.sendMessage(citel.chat, {
                 video: {
                     url: videolink ,
